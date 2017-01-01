@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+
+a {
+  text-decoration: none;
+  padding: 0px 10px;
+
+  // &:hover,
+  .active {
+    background-color: red;
+  }
+}
